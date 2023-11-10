@@ -1,12 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='math_quiz',  # Change 'math_quiz' to the name of your package
-    version='1.0',  # Specify the version number
-    packages=find_packages(),  # Automatically include all packages
-    entry_points={
-        'console_scripts': [
-            'math_quiz = math_quiz.math_quiz:math_quiz'  # Replace with your actual entry point
-        ]
-    },
+    name='math_quiz',  # Replace with your package name
+    version='1.0',      # Replace with your package version
+    packages=find_packages(),
+    # Add other metadata as required
 )
