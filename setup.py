@@ -8,6 +8,6 @@ setup(
     author='rutvi shah ',
     author_email='rutvi1309shah@gmail.com',
     description='A math quiz package',
-    url='https://github.com/yourusername/math_quiz_package',
+    url='https://github.com/Rutvi1309/dsss_homework_2.git',
     license='Apache',
 )
