@@ -2,7 +2,12 @@ from setuptools import setup, find_packages
 
 setup(
     name='math_quiz_package',
-    version='0.1',
+    version='1.0.0',
     packages=find_packages(),
-    install_requires=['random'],  # Mention dependencies here
+    install_requires=[],  # Remove 'random' from here
+    author='rutvi shah ',
+    author_email='rutvi1309shah@gmail.com',
+    description='A math quiz package',
+    url='https://github.com/yourusername/math_quiz_package',
+    license='MIT',
 )
